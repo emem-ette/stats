@@ -1,0 +1,202 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color:  hsl(233, 47%, 7%);
+
+}
+
+
+#container {
+    display:grid;
+    grid-gap: 1px;
+    grid-template-columns: 600px 500px;
+    grid-template-rows: 400px;
+    justify-content: center;
+    padding-top: 200px;
+
+}
+
+
+.second-container{
+    border: 2px solid hsl(244, 38%, 16%);
+    border-radius: 4px;
+
+}
+
+
+.box1 {
+    background-color: hsl(244, 38%, 16%);
+
+}
+
+
+.box1 h1 {
+    padding-top: 50px;
+    padding-left: 60px;
+   line-height: 1.6;
+   color: white;
+   font-family: sans-serif;
+   
+}
+
+
+.box1 p {
+    color: silver;
+    font-family: sans-serif;
+    font-size: 16px;
+    max-width: 410px;
+    padding-left: 60px;
+    padding-top: 30px;
+    line-height: 1.6;
+
+}
+
+
+.list1 {
+    list-style-type: none;
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: sans-serif;
+    padding-top: 40px;
+
+}
+
+
+.list1 li {
+    display: inline;
+ 
+}
+
+
+.list2 {
+    list-style-type: none;
+    color: white;
+    font-size: 16px;
+    font-family: sans-serif;
+    padding-top: 20px;
+    text-transform: uppercase;
+
+}
+
+
+.list2 li {
+    display: inline;
+  
+}
+
+
+.firstList {
+    padding-left: 60px;
+    padding-right: 80px;
+
+}
+
+
+.secondList {
+    padding-right: 90px;
+
+}
+
+
+.fourthList {
+    padding-left: 60px;
+    padding-right: 45px;
+
+}
+
+
+.fifthList {
+    padding-right: 45px;
+
+}
+
+
+.box2 {
+    background-color: hsl(244, 38%, 16%);
+
+}
+
+.box2 img {
+    width: 100%;
+    height: 100%;
+    object-fit: scroll;
+    filter: invert(24%) sepia(35%) saturate(1000%) hue-rotate(235deg) brightness(80%) contrast(89%);
+
+}
+
+
+img {
+    border-radius: 4px;
+}
+
+
+/*.borderbox {
+    background-color: hsl(244, 38%, 16%);
+    width: 80%;
+    border:  hsl(244, 38%, 16%) 6px solid ;
+    border-radius: 40px;
+    padding: 90px 10px;
+    margin-left: 180px;
+    margin-top: 300px;
+}
+
+.borderbox h1 {
+    color: white;
+    font-family: 'Inter',arial;
+    font-size: 45px;
+    font-weight: 400;
+    margin-bottom: 120px;
+    margin-left: 30px;
+}
+
+.borderbox p {
+    color: silver;
+    font-size: 22px;
+    font-family: sans-serif;
+    position: relative;
+    bottom: 80px;
+    left: 30px;
+    line-height: 27px;
+}
+
+.firstlist li {
+    display: inline;
+    padding: 30px;
+    color: white;
+    font-size: 22px;
+    font-family: sans-serif;
+    font-weight: 600;
+    position: relative;
+    bottom: 50px;
+    
+}
+
+.secondlist li {
+    display: inline;
+    padding: 20px;
+    font-size: 14px;
+
+    color: silver;
+    font-family: sans-serif;
+    position: relative;
+    bottom: 40px;
+    
+}
+.image {
+    border-radius:0 40px 40px 0;
+}
+.cardimage {
+    float: right;
+    position: relative;
+    bottom: 430px;
+    left: 17px;
+   
+    filter: invert(24%) sepia(35%) saturate(1000%) hue-rotate(235deg) brightness(80%) contrast(89%);
+}*/
+    
